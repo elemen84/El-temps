@@ -4,9 +4,9 @@ A Discord bot providing real-time weather information and rain alerts for munici
 
 ## Key Features
 
-* **Current Weather:** Check the climate for any municipality (`!temps [location]`).
-* **Rain Alerts:** Daily automatic alert (7:00 AM) if rain is expected.
-* **Smart Search:** Automatically corrects spelling mistakes in locations (fuzzy search).
+* **Current Weather:** Check the climate for any municipality (`!temps [location]`)
+* **Rain Alerts:** Daily automatic alert (7:00 AM) if rain is expected
+* **Smart Search:** Automatically corrects spelling mistakes in locations (fuzzy search)
 
 ---
 
