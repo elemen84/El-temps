@@ -30,7 +30,7 @@ TOTS_MUNICIPIS_CATALUNYA = [
     "Sant Vicenç dels Horts", "Santa Coloma de Gramenet", "Santa Perpètua de Mogoda",
     "Sitges", "Solsona", "Sort", "Tarragona", "Tàrrega", "Terrassa", "Tiana",
     "Tordera", "Tortosa", "Tremp", "Vic", "Vilafranca del Penedès", "Vilanova i la Geltrú",
-    "Viladecans", "Vila-seca", "Vinyols i els Arcs", "Ulldecona", "Vallirana", "Valls"
+    "Viladecans", "Vila-seca", "Ulldecona", "Vallirana", "Valls"
 ]
 TOTS_MUNICIPIS_CATALUNYA.sort()
 MUNICIPIS_CATALUNYA_NOMES = TOTS_MUNICIPIS_CATALUNYA

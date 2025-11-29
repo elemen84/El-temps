@@ -4,10 +4,6 @@
 # Archivos de log
 bot.log
 
-# Entornos virtuales de Python
-venv/
-.venv/
-
 # Caché y compilación de Python
 __pycache__/
 *.pyc

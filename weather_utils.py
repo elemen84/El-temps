@@ -13,7 +13,6 @@ from config import (
 # Configuració del logger per a les utilitats meteorològiques
 logger = logging.getLogger('weather_utils')
 
-
 def formatar_data(data_str):
     """Converteix data YYYY-MM-DD a format català complet."""
     try:

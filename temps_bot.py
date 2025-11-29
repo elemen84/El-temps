@@ -97,7 +97,6 @@ async def comanda_mapes(ctx):
 """
     await ctx.send(missatge)
 
-
 @bot.command(name="ajuda")
 async def comanda_ajuda(ctx):
     """Mostra ajuda sobre les comandes disponibles."""
